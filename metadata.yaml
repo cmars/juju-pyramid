@@ -17,6 +17,3 @@ requires:
     interface: mysql
   redis:
     interface: redis
-peers:
-  peer-relation:
-    interface: interface-name
